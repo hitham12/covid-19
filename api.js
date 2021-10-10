@@ -1,6 +1,6 @@
 //parametrs
 let covid_url = 'https://corona-api.com/countries'
-let countries_URL = 'https://cors-anywhere.herokuapp.com/https://restcountries.herokuapp.com/api/v1'
+let countries_URL = 'https://api.allorigins.win/raw?url=https://restcountries.herokuapp.com/api/v1'
 let countriesData, coronaData, chart;
 //let temp = 'https://restcountries.herokuapp.com/api/v1'
 
